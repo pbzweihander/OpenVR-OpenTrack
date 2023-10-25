@@ -1,0 +1,13 @@
+{
+	"driver_opentrack": {
+		"enable": true,
+		"serial_number": "OpenTrackDummySerial",
+		"model_number": "OpenTrackDummyModel",
+		"window_x": 0,
+		"window_y": 0,
+		"window_width": 2160,
+		"window_height": 1200,
+		"render_width": 1512,
+		"render_height": 1680
+	}
+}
