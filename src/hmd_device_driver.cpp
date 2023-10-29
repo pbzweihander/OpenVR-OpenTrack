@@ -37,7 +37,7 @@ OpenTrackDisplayComponent::OpenTrackDisplayComponent(
   config_ = config;
 };
 
-bool OpenTrackDisplayComponent::IsDisplayOnDesktop() { return false; }
+bool OpenTrackDisplayComponent::IsDisplayOnDesktop() { return true; }
 
 bool OpenTrackDisplayComponent::IsDisplayRealDisplay() { return false; }
 
